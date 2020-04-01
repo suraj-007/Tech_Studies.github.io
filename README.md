@@ -4,11 +4,6 @@ PHP and many more at one place and easily.Tech-Studies is a Web based portal tha
 
 ## Functions of Each Actor 
 
-The Administrator can be do the following:
-*	Create/delete accounts (add a list of mentor names and list of his student)
-*	Change password for Faculty/Student
-*	Create/ delete/update courses (subject)
-
 The Mentor can  do the following:
 *	Change password.
 *	Block/Unblock Student
@@ -29,8 +24,39 @@ The Student can  do the following:
 ## Home Pages
 
 ![img](/project_images/Screenshot17.png)
+
 ![img](/project_images/Screenshot18.png)
+
 ![img](/project_images/Screenshot19.png)
+
 ![img](/project_images/Screenshot20.png)
+
 ![img](/project_images/Screenshot21.png)
+
+## Student View
+
+### Register
+
+![img](/project_images/Screenshot22.png)
+
+
+### Login 
+
+![img](/project_images/Screenshot23.png)
+
+### Dashboard
+
+![img](/project_images/Screenshot25.png)
+
+### Lectures
+
+![img](/project_images/Screenshot26.png)
+
+### Quiz
+
+![img](/project_images/Screenshot27.png)
+
+### Quiz Result
+
+![img](/project_images/Screenshot28.png)
 
