@@ -28,7 +28,9 @@ The Student can  do the following:
 
 ## Home Pages
 
-![img1](/project_images/Screenshot17.png)
-![img2](/project_images/Screenshot18.png)
-![img3](/project_images/Screenshot19.png)
+![img](/project_images/Screenshot17.png)
+![img](/project_images/Screenshot18.png)
+![img](/project_images/Screenshot19.png)
+![img](/project_images/Screenshot20.png)
+![img](/project_images/Screenshot21.png)
 
