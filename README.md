@@ -23,16 +23,16 @@ The Student can  do the following:
 
 ## Home Pages
 
-### Page1
+### Animation Image1
 
 ![img](/project_images/Screenshot17.png) 
 
-### Page2
+### Animation Image2
 
 ![img](/project_images/Screenshot18.png)
 
 
-### Page3
+### Animation Image3
 ![img](/project_images/Screenshot19.png)
 
 ### About Us
