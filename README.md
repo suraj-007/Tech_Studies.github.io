@@ -23,15 +23,24 @@ The Student can  do the following:
 
 ## Home Pages
 
-![img](/project_images/Screenshot17.png)
+### Page1
+
+![img](/project_images/Screenshot17.png) 
+
+### Page2
 
 ![img](/project_images/Screenshot18.png)
 
+
+### Page3
 ![img](/project_images/Screenshot19.png)
 
+### About Us
 ![img](/project_images/Screenshot20.png)
 
+### Contact Us
 ![img](/project_images/Screenshot21.png)
+
 
 ## Student View
 
