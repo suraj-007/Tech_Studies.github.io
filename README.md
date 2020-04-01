@@ -60,3 +60,36 @@ The Student can  do the following:
 
 ![img](/project_images/Screenshot28.png)
 
+### All Attempted Quiz Result
+
+![img](/project_images/Screenshot30.png)
+
+### Discussion Forum
+
+![img](/project_images/Screenshot29.png)
+
+
+## Mentor View
+
+### Register
+
+![img](/project_images/Screenshot24.png)
+
+### Login
+
+![img](/project_images/Screenshot23.png)
+
+### All Registered Students
+
+![img](/project_images/Screenshot33.png)
+
+### Block Students
+
+![img](/project_images/Screenshot34.png)
+
+### Set Qustion Paper
+
+![img](/project_images/Screenshot35.png)
+
+![img](/project_images/Screenshot36.png)
+
