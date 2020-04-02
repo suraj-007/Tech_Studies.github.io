@@ -22,6 +22,7 @@ The Student can  do the following:
 *	View other material
 
 ## Home Pages
+![img](/project_images/img1.gif) 
 
 ### Animation Image1
 
@@ -29,11 +30,11 @@ The Student can  do the following:
 
 ### Animation Image2
 
-![img](/project_images/Screenshot18.png)
+![img](/project_images/Screenshot19.png)
 
 
 ### Animation Image3
-![img](/project_images/Screenshot19.png)
+![img](/project_images/Screenshot18.png)
 
 ### About Us
 ![img](/project_images/Screenshot20.png)
